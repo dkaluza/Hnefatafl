@@ -1,0 +1,6 @@
+D:\Inf\jnp2C#\Server\Server\bin\Debug\Server.exe.config
+D:\Inf\jnp2C#\Server\Server\bin\Debug\Server.exe
+D:\Inf\jnp2C#\Server\Server\bin\Debug\Server.pdb
+D:\Inf\jnp2C#\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Inf\jnp2C#\Server\Server\obj\Debug\Server.exe
+D:\Inf\jnp2C#\Server\Server\obj\Debug\Server.pdb

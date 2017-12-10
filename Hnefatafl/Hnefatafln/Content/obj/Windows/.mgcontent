@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Inf/jnp2C#/Hnefatafl/Hnefatafln/Content/MenuFont.spritefont</File>
+    <File>D:/Inf/jnp2C#/Hnefatafl/Hnefatafln/Content/Board.png</File>
+    <File>D:/Inf/jnp2C#/Hnefatafl/Hnefatafln/Content/BlackPawn.gif</File>
+    <File>D:/Inf/jnp2C#/Hnefatafl/Hnefatafln/Content/WhiteKing.png</File>
+    <File>D:/Inf/jnp2C#/Hnefatafl/Hnefatafln/Content/WhitePawn.png</File>
+    <File>D:/Inf/jnp2C#/Hnefatafl/Hnefatafln/Content/PieceBackground.png</File>
+  </SourceFiles>
+</SourceFileCollection>
